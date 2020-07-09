@@ -1,8 +1,10 @@
-<h2 align="center">👋 Heyy! I'm Duncan</h2>
+<h3 align="center">👋 Heyy! I'm Duncan</h3>
 <p align="center">
   <a href="https://dephraiim.now.sh">Website</a> •
   <a href="https://twitter.com/dephraiim">Twitter</a>
 </p>
+
+---
 
 I'm Ephraim Atta-Duncan, a developer, designer and a blogger (technical writer.) I like writing and I like to write about everything I learn.
 
