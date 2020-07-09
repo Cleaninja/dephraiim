@@ -1,4 +1,4 @@
-<h3 align="center">👋 Heyy! I'm Duncan</h3>
+<h2 align="center">👋 Heyy! I'm Duncan</h2>
 <p align="center">
   <a href="https://dephraiim.now.sh">Website</a> •
   <a href="https://twitter.com/dephraiim">Twitter</a>
