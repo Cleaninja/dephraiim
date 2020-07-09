@@ -11,7 +11,7 @@ I aim to oneday dive into the field of AI and Machine Learning together with the
 ### Duncan
 
 - 💻 never let go of his computer
-- 🖋 write code as a hobby
+- 🖋 writes code as a hobby
 - 📖 likes fiction and mystery novels
 - 👽 loves aliens
 - 🌕 wishes to go to mars one day
