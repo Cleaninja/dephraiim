@@ -7,7 +7,7 @@
 
 ---
 
-I'm Ephraim Atta-Duncan, a developer, designer and a blogger (technical writer.) I like writing and I like to write about everything I learn.
+I'm Duncan, a developer, designer and a blogger (technical writer.) I like writing and I like to write about everything I learn.
 
 ### Duncan
 
