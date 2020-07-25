@@ -16,6 +16,10 @@
 <br>
 <br>
 <br>
+<!-- PLEASE DO NOT USE IN YOUR CODE -->
+<!-- <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME" alt="GITHUB_USERNAME" /> -->
+<!-- REPLACE GITHUB_USERNAME WITH YOUR USERNAME -->
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dephraiim" alt="dephraiim" /> </p>
 <p align="center">
 <a href="https://twitter.com/dephraiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
